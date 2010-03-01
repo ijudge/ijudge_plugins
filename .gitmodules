@@ -1,0 +1,60 @@
+[submodule "formtastic"]
+	path = formtastic
+	url = git://github.com/ijudge/formtastic.git
+[submodule "exception_notification"]
+	path = exception_notification
+	url = git://github.com/ijudge/exception_notification.git
+[submodule "canable"]
+	path = canable
+	url = git://github.com/ijudge/canable.git
+[submodule "acts-as-taggable-on"]
+	path = acts-as-taggable-on
+	url = git://github.com/ijudge/acts-as-taggable-on.git
+[submodule "rails_xss"]
+	path = rails_xss
+	url = git://github.com/ijudge/rails_xss.git
+[submodule "auto_complete"]
+	path = auto_complete
+	url = git://github.com/ijudge/auto_complete.git
+[submodule "settingslogic"]
+	path = settingslogic
+	url = git://github.com/ijudge/settingslogic.git
+[submodule "searchlogic"]
+	path = searchlogic
+	url = git://github.com/ijudge/searchlogic.git
+[submodule "will_paginate"]
+	path = will_paginate
+	url = git://github.com/ijudge/will_paginate.git
+[submodule "ajaxful-rating"]
+	path = ajaxful-rating
+	url = git://github.com/ijudge/ajaxful-rating.git
+[submodule "authlogic"]
+	path = authlogic
+	url = git://github.com/ijudge/authlogic.git
+[submodule "paperclip"]
+	path = paperclip
+	url = git://github.com/ijudge/paperclip.git
+[submodule "high_voltage"]
+	path = high_voltage
+	url = git://github.com/ijudge/high_voltage.git
+[submodule "sortable_table"]
+	path = sortable_table
+	url = git://github.com/ijudge/sortable_table.git
+[submodule "authlogic_facebook_connect"]
+	path = authlogic_facebook_connect
+	url = git://github.com/ijudge/authlogic_facebook_connect.git
+[submodule "authlogic_oauth"]
+	path = authlogic_oauth
+	url = git://github.com/ijudge/authlogic_oauth.git
+[submodule "acts_as_network"]
+	path = acts_as_network
+	url = git://github.com/ijudge/acts_as_network.git
+[submodule "state_machine"]
+	path = state_machine
+	url = git://github.com/ijudge/state_machine.git
+[submodule "observational"]
+	path = observational
+	url = git://github.com/ijudge/observational.git
+[submodule "authlogic_openid"]
+	path = authlogic_openid
+	url = git://github.com/ijudge/authlogic_openid.git
