@@ -46,9 +46,6 @@
 [submodule "authlogic_oauth"]
 	path = authlogic_oauth
 	url = git://github.com/ijudge/authlogic_oauth.git
-[submodule "acts_as_network"]
-	path = acts_as_network
-	url = git://github.com/ijudge/acts_as_network.git
 [submodule "state_machine"]
 	path = state_machine
 	url = git://github.com/ijudge/state_machine.git
